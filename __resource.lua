@@ -18,5 +18,9 @@ files {
     'imgs/bg5.png', 
     'imgs/bg6.png', 
     'imgs/bg7.png',
-    'imgs/logo.png'
+    'imgs/logo.png',
+}
+
+client_scripts {
+    'imgs/radar.lua'
 }
